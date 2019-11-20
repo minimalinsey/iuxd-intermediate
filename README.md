@@ -1,3 +1,3 @@
 # IUXD-Intermediate
 
-Hello Intermediate IUXD Student!
+Hello Intermediate IUXD Student.
