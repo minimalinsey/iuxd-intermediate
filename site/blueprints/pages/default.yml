@@ -33,6 +33,49 @@ fields:
     label: How text
     type: textarea
     size: small
+  TitleFirst:
+    label: Title first step
+    type: textarea
+    size: small
+  TextFirst:
+    label: How text
+    type: textarea
+    size: small
+  TitleSecond:
+    label: Title second step
+    type: textarea
+    size: small
+  TextSecond:
+    label: How text
+    type: textarea
+    size: small
+  TitleThird:
+    label: Title third step
+    type: textarea
+    size: small
+  TextThird:
+    label: How text
+    type: textarea
+    size: small
+  TitleFourth:
+    label: Title fourth step
+    type: textarea
+    size: small
+  TextFourth:
+    label: How text
+    type: textarea
+    size: small
+  TitleFifth:
+    label: Tilte fifth step
+    type: textarea
+    size: small
+  TextFifth:
+    label: How text
+    type: textarea
+    size: small
+    
+
+
   BronnenTitle:
     label: Bronnen title
     type: textarea

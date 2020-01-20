@@ -1,0 +1,115 @@
+* {
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+
+.intro {
+    background-image: url('../../media/header.jpg');
+    background-position: top;
+    background-size: cover;
+    height: 500px;
+    padding: 30px;
+    text-align: center;
+}
+
+.header-title {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 60px 100px 0;
+    margin-top: -100px;
+}
+
+h1,
+h2,
+.tags {
+    text-align: center;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+#headingOne, #headingTwo, #headingThree, #headingFour, #headingFive,
+#headingOne:hover, #headingTwo:hover, #headingThree:hover, #headingFour:hover, #headingFive:hover {
+    transition: 0.3s;
+}
+
+#headingOne {
+    background-color: #E0AE42;
+    border-radius: 8px 8px 0 0;
+}
+
+#headingOne:hover {
+    background-color: #d8a63b;
+}
+
+#headingTwo {
+    background-color: #F28879;
+}
+
+#headingTwo:hover {
+    background-color: #e87c6c;
+}
+
+#headingThree {
+    background-color: #D63359;
+}
+
+#headingFour {
+    background-color: #7FC787;
+}
+
+#headingFive {
+    background-color: #57C2C7;
+    border-radius: 0 0 8px 8px;
+}
+
+.card-header {
+    border-bottom: 0;
+    padding: 0;
+}
+
+.card-header:first-child {
+    border-radius: 0;
+}
+
+.btn {
+    border-radius: 0;
+    padding: 20px 0;
+    width: 100%;
+}
+
+.btn-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.btn-link:hover, .btn-link:active, .btn-link:focus {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.cardone {
+    border: solid 1px #E0AE42;
+    border-radius: 10px 10px 0 0;
+}
+
+.cardtwo {
+    border: solid 1px #F28879;
+}
+
+.cardthree {
+    border: solid 1px #D63359;
+}
+
+.cardfour {
+    border: solid 1px #7FC787;
+}
+
+.cardfive {
+    border: solid 1px #57C2C7;
+    border-radius: 0 0 10px 10px;
+}
+
+.what, .whattwo, .how, .bronnen {
+    padding: 30px 0 30px 0;
+}
