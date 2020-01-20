@@ -1,8 +1,43 @@
 title: Default Page
 preset: page
 fields:
-  text:
-    label: Text
+  introtext:
+    label: Intro Text
     type: textarea
-    size: large
-
+    size: small
+  WhatTitle:
+    label: What is a service blueprint
+    type: textarea
+    size: small
+  WhatText:
+    label: What is - text
+    type: textarea
+    size: small
+  WhatTitleTwo:
+    label: What is service design
+    type: textarea
+    size: small
+  WhatTextTwo:
+    label: What is - text
+    type: textarea
+    size: small
+  WhenText:
+    label: When text
+    type: textarea
+    size: small
+  HowTitle:
+    label: How title
+    type: textarea
+    size: small
+  HowText:
+    label: How text
+    type: textarea
+    size: small
+  BronnenTitle:
+    label: Bronnen title
+    type: textarea
+    size: small
+  BronnenText:
+    label: Bronnen text
+    type: textarea
+    size: small
