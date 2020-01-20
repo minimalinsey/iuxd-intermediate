@@ -6,7 +6,12 @@ Introtext: *Voor het verbeteren of het maken van een goede service maken designe
 
 ----
 
-Whattitle: ## **Wat is een service blueprint?**
+Whattitle:
+
+---
+<br></br>
+## **Wat is een service blueprint?**
+<br>
 
 ----
 
@@ -21,7 +26,12 @@ Een service blueprint is een deliverable uit Service Design
 
 ----
 
-Whattitletwo: ## **Wat is Service Design?**
+Whattitletwo:
+
+---
+<br></br>
+## **Wat is Service Design?**
+<br>
 
 ----
 
@@ -47,7 +57,12 @@ Voor het verbeteren van een huidige service.📈
 
 ----
 
-Howtitle: ## **Hoe maak je een service blueprint**
+Howtitle:
+
+---
+<br></br>
+## **Hoe maak je een service blueprint**
+<br>
 
 ----
 
@@ -61,7 +76,7 @@ Titlefirst: ### **Find Support**
 
 Textfirst:
 
-Stap 1:
+**Stap 1:**
 Verzamel zo veel als mogelijk mensen van verschillende rollen voor een team! (Denk aan: Interaction Designer, visual designer, front-ender, back-ender, project-coordinator, product holder etc.)
 Zet hiermee een team op die gaan bedenken over verbeteringen van een service/een service opzetten.
 
@@ -73,7 +88,7 @@ Titlesecond: ###** Define the goal**
 
 Textsecond:
 
-Stap 2:
+**Stap 2:**
 Maak het doel waarnaar je gezamenlijk als team naartoe werkt concreet. Maak je een service blueprint om een service te verbeteren? Welke touchpoints gebruikt hierbij de gebruiker? Welke stakeholders komen er hier nog meer aan te pas? Is er al informatie beschikbaar? Wat moet de service blueprint uiteindelijk oplossen voor de organisatie?
 
 ----
@@ -84,11 +99,11 @@ Titlethird: ### **Gather Research**
 
 Textthird:
 
-Stap 3:
+**Stap 3:**
 Verzamel research over de (eind) gebruikers, stakeholders (welke organisaties komen nog meer te pas voor deze ‘specifieke service’), interne medewerkers.
 Kortom:
-Externe informatie van de gebruikers (User journey, interviews, persona’s etc.)
-Interne informatie van de medewerkers (hoe ervaren zij werken voor organisatie X? Wat zijn voor hun interactie-punten/momenten).
+- Externe informatie van de gebruikers (User journey, interviews, persona’s etc.)
+- Interne informatie van de medewerkers (hoe ervaren zij werken voor organisatie X? Wat zijn voor hun interactie-punten/momenten).
 
 ----
 
@@ -98,8 +113,9 @@ Titlefourth: ### **Map the blueprint**
 
 Textfourth:
 
-Stap 4:
+**Stap 4:**
 Het opzetten van de Service Blueprint:
+
 • Workshop organiseren waarbij iedereen fysiek aanwezig is, hierdoor kan je makkelijker gezamenlijk nadenken over verschillende touchpoints etc.
 Zorg dat er grote bladen aan de muur waarop je met post-its verschillende inzichten kan opplakken.
 Mocht het zo zijn dat je niet gezamenlijk in 1 ruimte kan zitten, zorg dan voor een ‘digitaal’ whiteboard waarop je gezamenlijk inzichten kan plaatsen.
@@ -109,6 +125,7 @@ Bij een service blueprint draait het meer om de medewerkers-acties dan de gebrui
 
 • Zet de mederwerkers ‘front-stage’ & ‘back-stage’ in kaart.
 Dit is de kern van een service blueprint, zet alle stappen van de medewerkers en hoe deze communiceren aan de gebruikers aan de front-stage kant van de blueprint, en de interne communicatie aan de back-stage kant. Let wel op! Gebruik hier inzichten van medewerkers van je bedrijf, gebruik hiervoor interviews die je bij een eerdere stap heb afgenomen met medewerkers zodat je realistische afspiegeling hebt wat er intern plaatst vind bij de organisatie.
+
 • Zet support processen in kaart (met bewijs van deze processen).
 Zet het proces erbij wat er voor zorgt dat de medewerker contact krijgt met de gebruiker, dit kan digitale artefacten zijn of telefoonjes tot contact in real life/frond desk.
 
@@ -120,13 +137,17 @@ Titlefifth: ###** Refine & Distribute**
 
 Textfifth:
 
-Stap 5: 
-Definieer en concretiseer de service blueprint met overige informatie wat er nog aan ‘ontbreekt’. {{ gallery }}
-<br>
+**Stap 5: **
+Definieer en concretiseer de service blueprint met overige informatie wat er nog aan ‘ontbreekt’.
 
 ----
 
-Bronnentitle: ## **Bronnen**
+Bronnentitle:
+
+---
+<br></br>
+## **Bronnen**
+<br>
 
 ----
 
