@@ -135,6 +135,17 @@
     <section class="container-fluid">
         <div class="row">
             <div class="col-md-6 offset-md-3">
+                <div class="what">
+                    <?= $page->TitleImplement()->kt() ?>
+                    <?= $page->TextImplement()->kt() ?>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
                 <div class="bronnen">
                     <?= $page->BronnenTitle()->kt() ?>
                     <?= $page->BronnenText()->kt() ?>

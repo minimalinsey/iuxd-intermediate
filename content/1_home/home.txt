@@ -142,6 +142,35 @@ Definieer en concretiseer de service blueprint met overige informatie wat er nog
 
 ----
 
+Titleimplement:
+
+---
+<br></br>
+## **Hoe vul je de blueprint in?**
+<br>
+
+----
+
+Textimplement:
+
+**Stap 1:**
+
+Bekijk de costumer journey die bovenaan de blue print staat, het is handig om de print helemaal (verticaal) te lezen, beginnend bij de start van de costumer journey.
+
+**Stap 2:**
+
+Bepaal met deze stappen hoe de gebruiker contact opneemt met de service (hier: wegenwacht).
+
+**Stap 3:**
+
+Bekijk je bronnen (persona’s, interviews, costumer journey’s, interviews met werknemers) welke contact punten je werknemers hebben met de gebruiker, en met externe partijen van je bedrijf.
+
+Zet deze op de juiste plaats in de service blueprint, kijk naar front-stage (wat een gebruiker ziet) en back-stage (wat een gebruiker niet ziet).
+
+Let op! Een interactie kan vooruit als achteruit gaan tussen verschillende service blueprint interacties
+
+----
+
 Bronnentitle:
 
 ---
@@ -158,6 +187,45 @@ https://www.nngroup.com/articles/service-design-101/
 http://ijdesign.org/index.php/IJDesign/article/view/994/341
 https://open.spotify.com/episode/7asBg01cU8rBLyRs0SQjwg?si=r-btUO_-TK2Ff3a3043_Eg
 Boek: This is service design doing.
+
+----
+
+Textfirstimplement:
+
+---
+# **hier komt text**
+
+----
+
+Titlesecondimplement: En hier ook
+
+----
+
+Textsecondimplement: en hier nog meer!
+
+----
+
+Titlethirdimplement: Nog meer hier!??!
+
+----
+
+Textthirdimplement: OMG
+
+----
+
+Titlefourthimplement: WAT?!?!
+
+----
+
+Textfourthimplement: OKAY
+
+----
+
+Titlefifthimplememnt: HOE DAN?
+
+----
+
+Textfifthimplement: HOWDA?
 
 ----
 

@@ -73,8 +73,15 @@ fields:
     label: How text
     type: textarea
     size: small
-    
 
+  TitleImplement:
+    label: HowTitle
+    type: textarea
+    size: small
+  TextImplement:
+    label: Implementtekstvlak
+    type: textarea
+    size: small 
 
   BronnenTitle:
     label: Bronnen title
