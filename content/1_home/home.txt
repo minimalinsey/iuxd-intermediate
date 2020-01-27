@@ -169,7 +169,7 @@ Zet deze op de juiste plaats in de service blueprint, kijk naar front-stage (wat
 
 Let op! Een interactie kan vooruit als achteruit gaan tussen verschillende service blueprint interacties
 
-(image service_blueprint_ingevuld2.png)
+(image service_blueprint_ingevuld_2.png)
 
 
 ----
