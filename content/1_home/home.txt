@@ -173,7 +173,6 @@ Let op! Een interactie kan vooruit als achteruit gaan tussen verschillende servi
 
 (image: service_blueprint_ingevuld_2.png)
 
-
 ----
 
 Bronnentitle:
